@@ -1,0 +1,79 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-trim",
+        "scope": null,
+        "escapedName": "cordova-plugin-trim",
+        "name": "cordova-plugin-trim",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/snetesanyi/workspace/java/society-inaction/mobile2"
+    ]
+  ],
+  "_from": "cordova-plugin-trim@latest",
+  "_id": "cordova-plugin-trim@2.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-trim",
+  "_nodeVersion": "6.10.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-trim-2.0.1.tgz_1502269336019_0.3547974124085158"
+  },
+  "_npmUser": {
+    "name": "akashpal",
+    "email": "akashpa93@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-trim",
+    "scope": null,
+    "escapedName": "cordova-plugin-trim",
+    "name": "cordova-plugin-trim",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-trim/-/cordova-plugin-trim-2.0.1.tgz",
+  "_shasum": "f0f553a179eab6bd44f1dfb78ec2fa348b028903",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-trim",
+  "_where": "/home/snetesanyi/workspace/java/society-inaction/mobile2",
+  "author": {
+    "name": "akashpal"
+  },
+  "dependencies": {},
+  "description": "cordova plugin to trim videos",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "f0f553a179eab6bd44f1dfb78ec2fa348b028903",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-trim/-/cordova-plugin-trim-2.0.1.tgz"
+  },
+  "gitHead": "5e3a76cc0f5a488e9c0bf083e5a7ced8c0993e9c",
+  "keywords": [
+    "videoTrim"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "akashpal",
+      "email": "akashpa93@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-trim",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.1"
+}
